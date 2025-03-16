@@ -28,6 +28,45 @@ render.experimental.xml
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+*.cmd
 
 # Android Profiling
 *.hprof
+api-gateway/.mvn/*
+api-gateway/target/*
+api-gateway/volume-data/*
+api-gateway/docker/*
+api-gateway/mysql/*
+api-gateway/data/*
+api-gateway/mvnw
+api-gateway/HELP.md
+
+inventory-service/.mvn/*
+inventory-service/target/*
+inventory-service/volume-data/*
+inventory-service/docker/*
+inventory-service/mysql/*
+inventory-service/data/*
+inventory-service/mvnw
+inventory-service/HELP.md
+
+order-service/.mvn/*
+order-service/target/*
+order-service/volume-data/*
+order-service/docker/*
+order-service/mysql/*
+order-service/data/*
+order-service/mvnw
+order-service/HELP.md
+
+product-service/.mvn/*
+product-service/target/*
+product-service/volume-data/*
+product-service/docker/*
+product-service/mysql/*
+product-service/data/*
+product-service/mvnw
+product-service/HELP.md
+
+
+
